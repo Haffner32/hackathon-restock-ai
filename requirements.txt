@@ -3,3 +3,4 @@ pandas==2.2.2
 numpy==1.26.4
 prophet==1.1.5
 holidays==0.48
+cmdstanpy==1.2.2
